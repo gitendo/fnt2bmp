@@ -1,7 +1,7 @@
 CC = gcc
 
 all:
-        $(CC) fnt2.bmp.c -o fnt2bmp
+        $(CC) fnt2bmp.c -o fnt2bmp
 
 clean:
         rm fnt2bmp
