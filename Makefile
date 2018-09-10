@@ -7,4 +7,4 @@ clean:
         rm fnt2bmp
 
 install:
-        install -m 755 /usr/bin
+        install -m 755 fnt2bmp /usr/bin
