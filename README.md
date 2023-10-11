@@ -1,3 +1,10 @@
+### Notice
+Starting October 12th, 2023 GitHub is enforcing mandatory [two-factor authentication](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/) on my account.  
+I'm not going to comply and move all my activity to GitLab instead.  
+Any future updates / releases will be available at: [https://gitlab.com/gitendo/fnt2bmp](https://gitlab.com/gitendo/fnt2bmp)  
+Thanks and see you there!
+___
+
 # fnt2bmp
 If you're old enough you might remember DOS utilities like Font Edit or Font Mania which were designed for editing EGA and VGA fonts on PC. This software is obsolete nowadays but fonts still might be usable on different tile based platforms which are lacking pixel artists ie. Gameboy. ;) Since checking each font in DosBox would be cumbersome I wrote this small utility that converts .fnt files into bitmaps. This helps sorting, previewing and further conversion.
 
